@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build things, break things, learn how they work, and build them better. 🚀
+  I build things, break things, learn how they work, and build them better. 
 </p>
 
 <p align="center">

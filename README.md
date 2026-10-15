@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Saif Reyad 👋</h1>
+<h1 align="center">Hey, I'm Saif Reyad </h1>
 
 <p align="center">
   CSE @ Khulna University • Full-Stack Developer • Builder
@@ -17,26 +17,26 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 💻 Building full-stack applications and real-world products
-- 🚀 Co-founder of **Gonimia** and founder of **ProfessorAll & Race2Rent**
-- 🕸️ Interested in web scraping, automation, and backend engineering
-- 🐧 Linux enthusiast exploring cybersecurity and AI security
-- 🧠 Always learning, experimenting, and building something new
+-  Building full-stack applications and real-world products
+-  Co-founder of **Gonimia** and founder of **ProfessorAll & Race2Rent**
+-  Interested in web scraping, automation, and backend engineering
+-  Linux enthusiast exploring cybersecurity and AI security
+-  Always learning, experimenting, and building something new
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,nodejs,express,django,postgres,mongodb,mysql,tailwind,git,github,linux,docker" />
 </p>
 
 
-### 🔍 Currently Interested In
+###  Currently Interested In
 
 `Full-Stack Development` · `Web Scraping` · `Linux` · `Cybersecurity` · `Agentic AI Security` · `Entrepreneurship`
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaifulIslamReyad&show_icons=true&hide_border=true&rank_icon=github" />
@@ -50,9 +50,9 @@
 ---
 
 <p align="center">
-  <i>Curious mind. Builder mindset. Always shipping. ⚡</i>
+  <i>Curious mind. Builder mindset. Always shipping. </i>
 </p>
 
 <p align="center">
-  📫 <a href="mailto:riyadsaif18@gmail.com">riyadsaif18@gmail.com</a>
+   <a href="mailto:riyadsaif18@gmail.com">riyadsaif18@gmail.com</a>
 </p>

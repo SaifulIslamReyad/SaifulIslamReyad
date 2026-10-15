@@ -123,11 +123,6 @@ GPA: 5.00
   />
 </p>
 
-## Competitive Programming
-
-I practice competitive programming to strengthen my problem-solving abilities, algorithmic thinking, and understanding of data structures.
-
-- **Codeforces:** [saif_reyad](https://codeforces.com/profile/saif_reyad)
 
 ## Connect With Me
 
